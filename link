@@ -1,0 +1,8 @@
+DATABASE LINK:
+mongodb+srv://flowergift:flowergift@cluster0.1l2puru.mongodb.net/?retryWrites=true&w=majority
+admin data
+
+{
+    "email":aman@gmail.com,
+    "password":"aman@19"
+}
